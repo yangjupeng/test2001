@@ -3,4 +3,5 @@ public class Persion {
     private String name;
     private String age;
     private String phone;
+    private String adress;
 }
